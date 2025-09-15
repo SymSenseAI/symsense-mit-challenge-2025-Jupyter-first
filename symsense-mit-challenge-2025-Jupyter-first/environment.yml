@@ -1,0 +1,22 @@
+name: symsense-mit
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab>=4.2
+  - ipykernel
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - pytorch
+  - pip
+  - pip:
+      - xgboost
+      - lightgbm
+      - shap
+      - lime
+      - python-dotenv
+      - nbstripout
