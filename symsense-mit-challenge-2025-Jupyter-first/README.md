@@ -7,10 +7,10 @@
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
 | Andria Chen      | @andriachen | Data processing, feature engineering, and modeling (Flaredown dataset) |
-| Roba Srour  | |  |
+| Bessie Li | @bessie163 | Data processing, exploratory data analysis (EDA), feature engineering, and modeling for the Autoimmune 10k Dataset  |
 | Aryaa Modi   |   |        |
 | Sanya Sajin    |       |  |
-| Bessie Li       |     |            |
+| Roba Srour |     |            |
 
 ---
 
@@ -155,10 +155,10 @@ This demonstrated strong sensitivity for early-risk identification while maintai
 
 ## 🚀 **Next Steps**
 
-Expand dataset integration (merge additional sources such as lab biomarkers, medical history etc)
-Add model interpretability (SHAP) to validate feature importance and support stakeholder trust 
-Build a unified pipeline that evaluates multiple autoimmune conditions and chronic disease risk factors
-Collaborate with SymSense to test real-world applicability and refine model requirements
+- Expand dataset integration (merge additional sources such as lab biomarkers, medical history etc)
+- Add model interpretability (SHAP) to validate feature importance and support stakeholder trust 
+- Build a unified pipeline that evaluates multiple autoimmune conditions and chronic disease risk factors
+- Collaborate with SymSense to test real-world applicability and refine model requirements
 
 ---
 
