@@ -6,11 +6,11 @@
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| Andria Chen      | @andriachen | Data processing, feature engineering, and modeling (Flaredown dataset) |
-| Roba Srour  | |  |
-| Aryaa Modi   |   |        |
+| Andria Chen | @andriachen | Data processing, exploratory data analysis (EDA), feature engineering, and modeling for the Flaredown Dataset |
+| Bessie Li | @bessie163 | Data processing, exploratory data analysis (EDA), feature engineering, and modeling for the Autoimmune 10k Dataset  |
+| Aryaa Modi   | @aryaam72  | Data processing for the Rheumatic and Autoimmune Disease Dataset, exploratory data analysis (EDA), feature engineering, and modeling for the Flaredown Dataset |
 | Sanya Sajin    |       |  |
-| Bessie Li       |     |            |
+| Roba Srour     |     |            |
 
 ---
 
